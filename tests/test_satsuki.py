@@ -11,7 +11,7 @@ import satsuki
 from satsuki import Arguments, ReleaseMgr
 
 TEST_UUID = str(uuid.uuid1())
-TEST_SLUG = "plus3it/satsuki-tests"
+TEST_SLUG = "MetroStar/satsuki-tests"
 TEST_TAG = "Test-v" + TEST_UUID[:6]
 TEST_COMMITISH = "f25a79b856433fe8c35ac4050a70dd53dc6e684f"
 

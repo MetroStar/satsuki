@@ -35,7 +35,7 @@ If you are proposing a feature:
 
 To set up Satsuki for local development:
 
-1.  Fork [Satsuki](https://github.com/plus3it/satsuki) (look for the
+1.  Fork [Satsuki](https://github.com/MetroStar/satsuki) (look for the
     "Fork" button).
 
 2.  Clone your fork locally:
@@ -77,5 +77,5 @@ For pull request acceptance, you should:
 3.  Add a note to `CHANGELOG.md` about the changes. Include a link to the
     pull request.
 
-[0]: https://github.com/plus3it/satsuki/issues
-[1]: https://travis-ci.org/plus3it/satsuki/pull_requests
+[0]: https://github.com/MetroStar/satsuki/issues
+[1]: https://travis-ci.org/MetroStar/satsuki/pull_requests
